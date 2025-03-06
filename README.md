@@ -3,6 +3,8 @@
 Bem-vindo ao nosso laboratório de pesquisa! Aqui, estudamos o impacto de **estresses abióticos** em plantas, como **temperatura**, **salinidade**, **déficit hídrico** e **estresse luminoso**. 🌞🌿🌊
 Trabalahamos com diversos produtos como bioestimulantes e biofertilizantes e seus efeitosa em plantas. Também simulamos diferentes ambiente de cultivo e coletamos múltiplas informações sobre o solo, plantas e ambiente.
 
+![logo](https://github.com/user-attachments/assets/f4c41121-fd48-4c35-a3f5-9678959f16cc)
+
 ## 🏬 Infraestrutura
 
 Nosso laboratório é equipado com uma infraestrutura de **fenotipagem de alto rendimento**, que nos permite realizar experimentos com plantas em diferentes condições de estresse. Algumas das principais ferramentas que usamos incluem:
