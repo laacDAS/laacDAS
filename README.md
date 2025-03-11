@@ -11,7 +11,7 @@ Nosso laboratório é equipado com uma infraestrutura de **fenotipagem de alto r
 
 - **Câmaras de simulação de ambientes** para criar e controlar diferentes condições de estresse abiótico.
 - **Equipamentos de fenotipagem automatizada**, otimizando a coleta e análise de dados sobre o crescimento e desenvolvimento das plantas.
-
+![overview](https://github.com/laacDAS/laacDAS/blob/main/overview.png)
 ## 🔧 Soluções de Software
 
 Desenvolvemos várias soluções de **software** para automatizar e analisar os experimentos, incluindo:
